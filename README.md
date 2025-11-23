@@ -1,13 +1,12 @@
 # Australian Road Death Analysis (2010-2024)
 
-<img width="919" height="529" alt="image" src="https://github.com/user-attachments/assets/2f9fae77-d42c-4070-ae9f-7bf26a5d818c" />
+<br>
 
-
-## 📊 Project Summary
-
-Analyzed Australian road fatalities (2010-2024) using three R visualizations to identify temporal patterns, high-risk demographics, and policy effectiveness toward the 2030 target.
+Objectives: Analyzed Australian road fatalities (2010-2024) using three R visualizations to identify temporal patterns, high-risk demographics, and policy effectiveness toward the 2030 target.
 
 **[📈 View Full Interactive Report on RPubs](http://rpubs.com/audreyyy_ng/au-road-deaths)**
+
+<img width="919" height="529" alt="image" src="https://github.com/user-attachments/assets/2f9fae77-d42c-4070-ae9f-7bf26a5d818c" />
 
 <br>
 
