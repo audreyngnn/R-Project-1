@@ -9,7 +9,7 @@ Analyzed Australian road fatalities (2010-2024) using three R visualizations to 
 
 **[📈 View Full Interactive Report on RPubs](http://rpubs.com/audreyyy_ng/au-road-deaths)**
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@ Analyzed Australian road fatalities (2010-2024) using three R visualizations to 
 | **Key Libraries** | `dplyr`, `ggplot2`, `plotly`, `lubridate`, `viridis` |
 | **Data Source** | [Australian Road Safety Data Hub](https://datahub.roadsafety.gov.au/progress-reporting/monthly-road-deaths#anchor-explore-the-data) |
 
----
+<br>
 
 ## 🎯 Key Findings
 
@@ -29,8 +29,7 @@ Analyzed Australian road fatalities (2010-2024) using three R visualizations to 
 | **Demographic Risk Analysis** | Bubble Plot | Men aged 18-34 face highest risk; females significantly below baseline |
 | **Policy Impact Timeline** | Line Chart | Post-2011 decline reversed in 2019; not on track for 2030 target (50% reduction) |
 
----
-
+<br>
 
 ## 💡 Recommendations
 
@@ -41,9 +40,7 @@ Analyzed Australian road fatalities (2010-2024) using three R visualizations to 
 | 📍 Medium | Increase resources for remote areas |
 | 📊 Critical | Accelerate policy interventions to meet 2030 target |
 
----
-
----
+<br>
 
 ## 📁 Repository Files
 
@@ -55,6 +52,6 @@ Analyzed Australian road fatalities (2010-2024) using three R visualizations to 
 | `RVisual_3.R` | Policy Impact Timeline |
 | `Australian_Road_Death_Analysis.Rmd` | R Markdown source |
 
-
+<br>
 
 **Author**: Audrey Nguyen
